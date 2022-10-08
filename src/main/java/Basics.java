@@ -135,7 +135,7 @@ public class Basics {
      *                     1.8.2. for Loops may be useful too.)
      *
      * @param to_split   A string containing EXACTLY 7 words, separated by
-     *                   spaces.
+     *                   spaces..
      * @return           The first letter of every word in to_split
      */
     public static String split(String to_split) {
